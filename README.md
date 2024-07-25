@@ -12,7 +12,7 @@ console.log(GuilhermeTavares);
 ### Sobre mim:
 
 <p>
-   🌱 Aluno de Tecnologia em Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, música e design. Disponho de habilidades em trabalho em equipe, relacionamento interpessoal e responsabilidade.
+   🌱 Aluno de Tecnologia em Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, música e design.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/guilherme-tavares-de-souza-920779206/)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/gui8311/?tab=achievements)
